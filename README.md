@@ -1,5 +1,8 @@
 ## Hi there 👋
+### Snake Game Animation
+![Snake game](https://github.com/adi3374/adi3374/blob/main/github-contribution-grid-snake-dark.svg)
 
+https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
 <!--
 **adi3374/adi3374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
